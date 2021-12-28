@@ -9,3 +9,10 @@ By
 --  Andre Martins  --
 --  João Manoel  --
 --  Thales Gonçalves  --
+
+Modulos
+- Engenharia de Software
+- API Back-end
+- Diagrama de Classes
+- Diagrama de Componentes
+- Diagrama de Ação
