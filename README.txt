@@ -6,7 +6,6 @@ jogos que voce para poder montar seu squad.
 
 By
 --  Julinano Vieira  --
---  Andre Martins  --
 --  João Manoel  --
 --  Thales Gonçalves  --
 
